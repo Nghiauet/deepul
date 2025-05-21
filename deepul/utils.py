@@ -95,7 +95,10 @@ def show_samples(
 ):
     import torch
     from torchvision.utils import make_grid
-
+    print("samples shape: ", samples.shape)
+    # if don't have batch dimension, add it
+    if samples.ndim == 3:
+        samples = samples[np.newaxis, :, :, :]
     samples = (torch.FloatTensor(samples) / 255).permute(0, 3, 1, 2)
     grid_img = make_grid(samples, nrow=nrow)
     plt.figure()
@@ -172,7 +175,6 @@ def load_text_data(pickle_file_path: str):
     test_set = data[-test_set_size:]
 
     return train_set, test_set
-
 def save_text_to_plot(text_samples, filename, image_width=600, image_height=900):
     scale_factor = 2
 
@@ -185,8 +187,24 @@ def save_text_to_plot(text_samples, filename, image_width=600, image_height=900)
     padding = 20 * scale_factor
     spacing = 4 * scale_factor
     title_spacing = 40 * scale_factor
-    title_font = ImageFont.truetype("arial.ttf", title_font_size)
-    text_font = ImageFont.truetype("arial.ttf", text_font_size)
+    
+    # Try to load fonts with fallbacks
+    try:
+        title_font = ImageFont.truetype("arial.ttf", title_font_size)
+        text_font = ImageFont.truetype("arial.ttf", text_font_size)
+    except OSError:
+        try:
+            title_font = ImageFont.truetype("DejaVuSans.ttf", title_font_size)
+            text_font = ImageFont.truetype("DejaVuSans.ttf", text_font_size)
+        except OSError:
+            try:
+                # Try system fonts
+                title_font = ImageFont.truetype("FreeSans.ttf", title_font_size)
+                text_font = ImageFont.truetype("FreeSans.ttf", text_font_size)
+            except OSError:
+                # Last resort - use default font
+                title_font = ImageFont.load_default()
+                text_font = ImageFont.load_default()
 
     # Create an image canvas
     image = Image.new("RGB", (image_width, image_height), background_color)

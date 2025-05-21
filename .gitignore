@@ -6,3 +6,11 @@
 *.pkl
 *.jpg
 .vscode/
+experiemnts/
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
