@@ -59,7 +59,7 @@ def q1_sample_data(part, dset_id):
         else:
             dset_fn = sample_data_2_b
 
-    train_data, test_data = dset_fn(10000), dset_fn(2500)
+    train_data, test_data = dset_fn(100000), dset_fn(2500)
     return train_data.astype('float32'), test_data.astype('float32')
 
 

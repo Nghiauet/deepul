@@ -1,0 +1,291 @@
+event: delta_encoding
+data: "v1"
+
+event: delta
+data: {"p": "", "o": "add", "v": {"message": {"id": "fab34bca-67e1-445c-b0f0-8d79f63e5c1c", "author": {"role": "system", "name": null, "metadata": {}}, "create_time": null, "update_time": null, "content": {"content_type": "text", "parts": [""]}, "status": "finished_successfully", "end_turn": true, "weight": 0.0, "metadata": {"is_visually_hidden_from_conversation": true}, "recipient": "all", "channel": null}, "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a", "error": null}, "c": 0}
+
+event: delta
+data: {"v": {"message": {"id": "e819a3a7-1149-4f7f-be17-f01648dd1f65", "author": {"role": "system", "name": null, "metadata": {}}, "create_time": 1750512294.4923356, "update_time": null, "content": {"content_type": "text", "parts": [""]}, "status": "finished_successfully", "end_turn": null, "weight": 1.0, "metadata": {"attachments": [], "is_visually_hidden_from_conversation": true}, "recipient": "all", "channel": null}, "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a", "error": null}, "c": 1}    
+
+event: delta
+data: {"v": {"message": {"id": "d856fa12-9679-4ffa-b96f-361abd7956f3", "author": {"role": "user", "name": null, "metadata": {}}, "create_time": 1750512293.91, "update_time": null, "content": {"content_type": "text", "parts": ["draw the graph for visualize this stock \nK\u1ebft qu\u1ea3 kinh doanh - VNM                Q1/2024    Q2/2024    Q3/2024    Q4/2024    Q1/2025\nGiai \u0111o\u1ea1n                01/01-31/03    01/04-30/06    01/07-30/09    01/10-31/12    01/01-31/03\nH\u1ee3p nh\u1ea5t                H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t\nKi\u1ec3m to\u00e1n                So\u00e1t x\u00e9t    Ch\u01b0a ki\u1ec3m to\u00e1n    So\u00e1t x\u00e9t    Ch\u01b0a ki\u1ec3m to\u00e1n    So\u00e1t x\u00e9t\nC\u00f4ng ty ki\u1ec3m to\u00e1n                KPMG        KPMG        KPMG\n\u00dd ki\u1ebfn ki\u1ec3m to\u00e1n                Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n        Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n        Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n\nDoanh thu thu\u1ea7n v\u1ec1 b\u00e1n h\u00e0ng v\u00e0 cung c\u1ea5p d\u1ecbch v\u1ee5    \n14,112    16,656    15,537    15,477    12,935\nGi\u00e1 v\u1ed1n h\u00e0ng b\u00e1n    \n8,201    9,588    9,136    9,267    7,724\nL\u1ee3i nhu\u1eadn g\u1ed9p v\u1ec1 b\u00e1n h\u00e0ng v\u00e0 cung c\u1ea5p d\u1ecbch v\u1ee5    \n5,912    7,068    6,401    6,210    5,210\nDoanh thu ho\u1ea1t \u0111\u1ed9ng t\u00e0i ch\u00ednh    \n387    373    430    395    366\nChi ph\u00ed t\u00e0i ch\u00ednh    \n102    88    98    140    42\nChi ph\u00ed b\u00e1n h\u00e0ng    \n3,095    3,575    3,336    3,351    3,170\nChi ph\u00ed qu\u1ea3n l\u00fd doanh nghi\u1ec7p    \n396    456    422    555    431\nL\u1ee3i nhu\u1eadn thu\u1ea7n t\u1eeb ho\u1ea1t \u0111\u1ed9ng kinh doanh    \n2,716    3,326    2,971    2,582    1,951\nL\u1ee3i nhu\u1eadn kh\u00e1c    \n-10    -17    -29    61    1\nPh\u1ea7n l\u1ee3i nhu\u1eadn/l\u1ed7 t\u1eeb c\u00f4ng ty li\u00ean k\u1ebft li\u00ean doanh    \nT\u1ed5ng l\u1ee3i nhu\u1eadn k\u1ebf to\u00e1n tr\u01b0\u1edbc thu\u1ebf    \n2,706    3,309    2,942    2,643    1,951\nL\u1ee3i nhu\u1eadn sau thu\u1ebf thu nh\u1eadp doanh nghi\u1ec7p    \n2,207    2,696    2,403    2,147    1,587\nL\u1ee3i nhu\u1eadn sau thu\u1ebf c\u1ee7a c\u1ed5 \u0111\u00f4ng C\u00f4ng ty m\u1eb9    \n2,195    2,670    2,404    2,124    1,568\nL\u00e3i c\u01a1 b\u1ea3n tr\u00ean c\u1ed5 phi\u1ebfu (VN\u00d0)    \n944    1,138    1,032    908    674\nC\u00e2n \u0111\u1ed1i k\u1ebf to\u00e1n - VNM                Q1/2024    Q2/2024    Q3/2024    Q4/2024    Q1/2025\nC\u00e2n \u0111\u1ed1i k\u1ebf to\u00e1n - VNM                Q1/2024    Q2/2024    Q3/2024    Q4/2024    Q1/2025\nGiai \u0111o\u1ea1n                01/01-31/03    01/04-30/06    01/07-30/09    01/10-31/12    01/01-31/03\nH\u1ee3p nh\u1ea5t                H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t\nKi\u1ec3m to\u00e1n                So\u00e1t x\u00e9t    Ch\u01b0a ki\u1ec3m to\u00e1n    So\u00e1t x\u00e9t    Ch\u01b0a ki\u1ec3m to\u00e1n    So\u00e1t x\u00e9t\nC\u00f4ng ty ki\u1ec3m to\u00e1n                KPMG        KPMG        KPMG\n\u00dd ki\u1ebfn ki\u1ec3m to\u00e1n                Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n        Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n        Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n\nT\u00e0i s\u1ea3n ng\u1eafn h\u1ea1n    \n35,014    37,333    40,582    37,554    38,408\nTi\u1ec1n v\u00e0 c\u00e1c kho\u1ea3n t\u01b0\u01a1ng \u0111\u01b0\u01a1ng ti\u1ec1n    \n1,788    1,199    2,616    2,226    2,538\nC\u00e1c kho\u1ea3n \u0111\u1ea7u t\u01b0 t\u00e0i ch\u00ednh ng\u1eafn h\u1ea1n    \n20,268    23,031    25,983    23,260    23,171\nC\u00e1c kho\u1ea3n ph\u1ea3i thu ng\u1eafn h\u1ea1n    \n5,869    6,345    5,606    6,234    5,469\nH\u00e0ng t\u1ed3n kho    \n6,781    6,524    6,103    5,687    6,979\nT\u00e0i s\u1ea3n ng\u1eafn h\u1ea1n kh\u00e1c    \n308    234    274    147    251\nT\u00e0i s\u1ea3n d\u00e0i h\u1ea1n    \n16,640    16,861    17,095    17,495    16,606\nT\u00e0i s\u1ea3n c\u1ed1 \u0111\u1ecbnh    \n12,472    12,296    11,854    12,551    12,310\nB\u1ea5t \u0111\u1ed9ng s\u1ea3n \u0111\u1ea7u t\u01b0    \n55    55    54    54    53\nC\u00e1c kho\u1ea3n \u0111\u1ea7u t\u01b0 t\u00e0i ch\u00ednh d\u00e0i h\u1ea1n    \n692    831    1,279    1,373    709\nT\u1ed5ng c\u1ed9ng t\u00e0i s\u1ea3n    \n51,654    54,194    57,677    55,049    55,014\nN\u1ee3 ph\u1ea3i tr\u1ea3    \n15,786    15,857    22,433    18,875    17,391\nN\u1ee3 ng\u1eafn h\u1ea1n    \n15,294    15,403    22,021    18,460    16,982\nN\u1ee3 d\u00e0i h\u1ea1n    \n492    453    412    415    410\nV\u1ed1n ch\u1ee7 s\u1edf h\u1eefu    \n35,868    38,337    35,244    36,174    37,622\nV\u1ed1n \u0111\u1ea7u t\u01b0 c\u1ee7a ch\u1ee7 s\u1edf h\u1eefu    \n20,900    20,900    20,900    20,900    20,900\nTh\u1eb7ng d\u01b0 v\u1ed1n c\u1ed5 ph\u1ea7n    \n34    34    34    34    34\nL\u1ee3i nhu\u1eadn sau thu\u1ebf ch\u01b0a ph\u00e2n ph\u1ed1i    \n3,816    6,000    2,870    3,471    4,474\nL\u1ee3i \u00edch c\u1ee7a c\u1ed5 \u0111\u00f4ng thi\u1ec3u s\u1ed1    \nT\u1ed5ng c\u1ed9ng ngu\u1ed3n v\u1ed1n    \n51,654    54,194    57,677    55,049    55,014\nCh\u1ec9 s\u1ed1 t\u00e0i ch\u00ednh - VNM                Q1/2024    Q2/2024    Q3/2024    Q4/2024    Q1/2025\nGiai \u0111o\u1ea1n                01/01-31/03    01/04-30/06    01/07-30/09    01/10-31/12    01/01-31/03\nH\u1ee3p nh\u1ea5t                H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t    H\u1ee3p nh\u1ea5t\nKi\u1ec3m to\u00e1n                So\u00e1t x\u00e9t    Ch\u01b0a ki\u1ec3m to\u00e1n    So\u00e1t x\u00e9t    Ch\u01b0a ki\u1ec3m to\u00e1n    So\u00e1t x\u00e9t\nC\u00f4ng ty ki\u1ec3m to\u00e1n                KPMG        KPMG        KPMG\n\u00dd ki\u1ebfn ki\u1ec3m to\u00e1n                Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n        Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n        Ch\u1ea5p nh\u1eadn to\u00e0n ph\u1ea7n\nThu nh\u1eadp tr\u00ean m\u1ed7i c\u1ed5 ph\u1ea7n c\u1ee7a 4 qu\u00fd g\u1ea7n nh\u1ea5t (EPS)    \nVN\u0110        4,407.63    4,633.31    4,590.85    4,494.02    4,194.41\nGi\u00e1 tr\u1ecb s\u1ed5 s\u00e1ch c\u1ee7a c\u1ed5 phi\u1ebfu (BVPS)    \nVN\u0110        17,162    18,344    16,864    17,309    18,002\nCh\u1ec9 s\u1ed1 gi\u00e1 th\u1ecb tr\u01b0\u1eddng tr\u00ean thu nh\u1eadp (P/E)    \nL\u1ea7n        15.34    14.14    15.27    14.11    14.45\nCh\u1ec9 s\u1ed1 gi\u00e1 th\u1ecb tr\u01b0\u1eddng tr\u00ean gi\u00e1 tr\u1ecb s\u1ed5 s\u00e1ch (P/B)    \nL\u1ea7n        3.94    3.57    4.16    3.66    3.37\nT\u1ef7 su\u1ea5t l\u1ee3i nhu\u1eadn g\u1ed9p bi\u00ean    \n%        41.89    42.43    41.2    40.12    40.28\nT\u1ef7 su\u1ea5t sinh l\u1ee3i tr\u00ean doanh thu thu\u1ea7n    \n%        15.64    16.19    15.47    13.87    12.27\nT\u1ef7 su\u1ea5t l\u1ee3i nhu\u1eadn tr\u00ean v\u1ed1n ch\u1ee7 s\u1edf h\u1eefu b\u00ecnh qu\u00e2n (ROEA)    \n%        6.19    7.2    6.53    5.95    4.25\nT\u1ef7 su\u1ea5t sinh l\u1ee3i tr\u00ean t\u1ed5ng t\u00e0i s\u1ea3n b\u00ecnh qu\u00e2n (ROAA)    \n%        4.21    5.05    4.3    3.77    2.85\nT\u1ef7 s\u1ed1 thanh to\u00e1n hi\u1ec7n h\u00e0nh (ng\u1eafn h\u1ea1n)    \nL\u1ea7n        2.29    2.42    1.84    2.03    2.26\nKh\u1ea3 n\u0103ng thanh to\u00e1n l\u00e3i vay    \nL\u1ea7n        32.32    52.46    47.98    40.98    26.96\nT\u1ef7 s\u1ed1 N\u1ee3 tr\u00ean T\u1ed5ng t\u00e0i s\u1ea3n    \n%        30.56    29.26    38.89    34.29    31.61\nT\u1ef7 s\u1ed1 N\u1ee3 vay tr\u00ean V\u1ed1n ch\u1ee7 s\u1edf h\u1eefu    \n%        19.04    20.81    23.97    25.64    27.15"]}, "status": "finished_successfully", "end_turn": null, "weight": 1.0, "metadata": {"selected_github_repos": [], "serialization_metadata": {"custom_symbol_offsets": []}, "request_id": "9533d42dad3820f4-SJC", "message_source": null, "timestamp_": "absolute", "message_type": null}, "recipient": "all", "channel": null}, "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a", "error": null}, "c": 2}  
+
+event: delta
+data: {"v": {"message": {"id": "5ded6fe7-e723-48f4-9012-0aabbf9e8c70", "author": {"role": "assistant", "name": null, "metadata": {}}, "create_time": 1750512294.581336, "update_time": null, "content": {"content_type": "code", "language": "unknown", "response_format_name": null, "text": ""}, "status": "in_progress", "end_turn": null, "weight": 1.0, "metadata": {"citations": [], "content_references": [], "gizmo_id": "g-HMNcP6w7d", "message_type": "next", "model_slug": "gpt-4o", "default_model_slug": "auto", "parent_id": "d856fa12-9679-4ffa-b96f-361abd7956f3", "model_switcher_deny": [{"slug": "text-davinci-002-render-sha", "context": "regenerate", "reason": "unsupported_gizmo", "is_available": false, "description": "This GPT is not supported"}]}, "recipient": "python", "channel": null}, "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a", "error": null}, "c": 3}  
+
+event: delta
+data: {"p": "/message/content/text", "o": "append", "v": "import"}    
+
+event: delta
+data: {"v": " matplotlib.pyplot as"}  
+
+event: delta
+data: {"v": " plt\n\n# Define"}       
+
+event: delta
+data: {"v": " quarters\nquarters = [\"Q1"}    
+
+data: {"type": "title_generation", "title": "T\u00f3m t\u1eaft b\u00e1o c\u00e1o VNM", "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a"}
+
+event: delta
+data: {"v": "/24\", \"Q2/24\", \"Q"}  
+
+event: delta
+data: {"v": "3/24\", \"Q4/24\", \"Q1/25"}     
+
+event: delta
+data: {"v": "\"]\n\n# Key financial metrics\nrevenue"}
+
+event: delta
+data: {"v": " = [14112, 16656, 15537"}
+
+event: delta
+data: {"v": ", 15477, 12935]\ngross_profit ="}
+
+event: delta
+data: {"v": " [5912, 7068, "} 
+
+event: delta
+data: {"v": "6401, 6210, 5210]\nnet_profit"}  
+
+event: delta
+data: {"v": " = [2195, 267"}  
+
+event: delta
+data: {"v": "0, 2404"}
+
+event: delta
+data: {"v": ", 2124, 1568]\n"}
+
+event: delta
+data: {"v": "eps = [944, 1138, 1032"} 
+
+event: delta
+data: {"v": ", 908"}  
+
+event: delta
+data: {"v": ","}      
+
+event: delta
+data: {"v": " 674]\n\n# Create figure and"}   
+
+event: delta
+data: {"v": " axis\nfig, ax1 = plt.subplots(figsize=("}       
+
+event: delta
+data: {"v": "12, 6))\n\n# Plot Revenue and Gross"}    
+
+event: delta
+data: {"v": " Profit\nax1.plot(quarters, revenue, label=\""}  
+
+event: delta
+data: {"v": "Revenue\", marker='o', color='blue"}     
+
+event: delta
+data: {"v": "')\nax1.plot(quarters, gross_profit, label=\"Gross Profit\", marker='o', color='"}       
+
+event: delta
+data: {"v": "green')\nax1.plot(quarters"}     
+
+event: delta
+data: {"v": ", net_profit, label=\"Net Profit (Parent)\","}   
+
+event: delta
+data: {"v": " marker='o', color='red"}
+
+event: delta
+data: {"v": "')\nax1.set_xlabel"}     
+
+event: delta
+data: {"v": "(\"Quarter\")\nax"}      
+
+event: delta
+data: {"v": "1.set_ylabel(\"Billion VND\")\nax1"}     
+
+event: delta
+data: {"v": ".set_title"}     
+
+event: delta
+data: {"v": "(\"VNM"} 
+
+event: delta
+data: {"v": " Financial"}     
+
+event: delta
+data: {"v": " Performance Overview\")\nax"}   
+
+event: delta
+data: {"v": "1.legend(loc=\"upper left\")\n\n# Create a"}     
+
+event: delta
+data: {"v": " second y-axis for EPS\nax2"}    
+
+event: delta
+data: {"v": " = ax1.twinx()\nax2.plot(quarters, eps, label=\""}       
+
+event: delta
+data: {"v": "EPS (VND)\", marker='s',"}       
+
+event: delta
+data: {"v": " color='purple', linestyle='"}   
+
+event: delta
+data: {"v": "--')\nax"}       
+
+event: delta
+data: {"v": "2.set_ylabel"}   
+
+event: delta
+data: {"v": "(\""}    
+
+event: delta
+data: {"v": "EPS (VND)\")\nax"}       
+
+event: delta
+data: {"v": "2.legend(loc=\"upper right\")\n\n"}      
+
+event: delta
+data: {"v": "plt.grid(True)\n"}       
+
+event: delta
+data: {"p": "", "o": "patch", "v": [{"p": "/message/content/text", "o": "append", "v": "plt.tight_layout()\nplt.show()"}, {"p": "/message/status", "o": "replace", "v": "finished_successfully"}, {"p": "/message/end_turn", "o": "replace", "v": false}]}    
+
+event: delta
+data: {"p": "/message/metadata", "o": "append", "v": {"is_complete": true, "finish_details": {"type": "stop", "stop_tokens": [200007]}}}      
+
+event: delta
+data: {"p": "", "o": "add", "v": {"message": {"id": "268bf785-f6f3-469b-babd-cd2adf21ddd9", "author": {"role": "tool", "name": "python", "metadata": {}}, "create_time": 1750512307.9119554, "update_time": 1750512307.9119554, "content": {"content_type": "execution_output", "text": ""}, "status": "in_progress", "end_turn": null, "weight": 1.0, "metadata": {"is_complete": false, "aggregate_result": {"status": "running", "run_id": "30514a3b-6cde-4279-9b0f-3f6a0d4cd71e", "start_time": 1750512307.9119554, "update_time": 1750512307.9119554, "code": "import matplotlib.pyplot as plt\n\n# Define quarters\nquarters = [\"Q1/24\", \"Q2/24\", \"Q3/24\", \"Q4/24\", \"Q1/25\"]\n\n# Key financial metrics\nrevenue = [14112, 16656, 15537, 15477, 12935]\ngross_profit = [5912, 7068, 6401, 6210, 5210]\nnet_profit = [2195, 2670, 2404, 2124, 1568]\neps = [944, 1138, 1032, 908, 674]\n\n# Create figure and axis\nfig, ax1 = plt.subplots(figsize=(12, 6))\n\n# Plot Revenue and Gross Profit\nax1.plot(quarters, revenue, label=\"Revenue\", marker='o', color='blue')\nax1.plot(quarters, gross_profit, label=\"Gross Profit\", marker='o', color='green')\nax1.plot(quarters, net_profit, label=\"Net Profit (Parent)\", marker='o', color='red')\nax1.set_xlabel(\"Quarter\")\nax1.set_ylabel(\"Billion VND\")\nax1.set_title(\"VNM Financial Performance Overview\")\nax1.legend(loc=\"upper left\")\n\n# Create a second y-axis for EPS\nax2 = ax1.twinx()\nax2.plot(quarters, eps, label=\"EPS (VND)\", marker='s', color='purple', linestyle='--')\nax2.set_ylabel(\"EPS (VND)\")\nax2.legend(loc=\"upper right\")\n\nplt.grid(True)\nplt.tight_layout()\nplt.show()", "end_time": null, "final_expression_output": null, "in_kernel_exception": null, "system_exception": null, "messages": [], "jupyter_messages": [], "timeout_triggered": null}, "message_type": "next", "model_slug": "gpt-4o", "default_model_slug": "auto", "parent_id": "5ded6fe7-e723-48f4-9012-0aabbf9e8c70", "model_switcher_deny": []}, "recipient": "all", "channel": null}, "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a", "error": null}, "c": 4} 
+
+: ping - 2025-06-21 13:25:10.253973+00:00
+
+event: delta
+data: {"o": "patch", "v": [{"p": "/message/update_time", "o": "replace", "v": 1750512311.4887762}, {"p": "/message/content/text", "o": "append", "v": "\n<<ImageDisplayed>>"}, {"p": "/message/metadata/aggregate_result/update_time", "o": "replace", "v": 1750512311.4887762}, {"p": "/message/metadata/aggregate_result/messages", "o": "append", "v": [{"message_type": "image", "time": 1750512311.488855, "sender": "server", "image_payload": null, "image_url": "file-service://file-JKkZeyt1dqhNPRU7Dz9LRB", "width": 2379, "height": 1180}]}, {"p": "/message/metadata/aggregate_result/jupyter_messages", "o": "append", "v": [{"msg_type": "status", "parent_header": {"msg_id": "124aa5b7-a474b5c7de06b6cf4fc2e55c_3_1", "version": "5.3"}, "content": {"execution_state": "busy"}}, {"msg_type": "execute_input", "parent_header": {"msg_id": "124aa5b7-a474b5c7de06b6cf4fc2e55c_3_1", "version": "5.3"}}, {"msg_type": "display_data", "parent_header": {"msg_id": "124aa5b7-a474b5c7de06b6cf4fc2e55c_3_1", "version": "5.3"}, "content": {"data": {"text/plain": "<Figure size 2400x1200 with 2 Axes>", "image/vnd.openai.fileservice2.png": "{\"url\": \"file-service://file-JKkZeyt1dqhNPRU7Dz9LRB\", \"image_width\": 2379, \"image_height\": 1180, \"bytes\": 180852}", "image/vnd.openai.fileservice.png": "file-service://file-JKkZeyt1dqhNPRU7Dz9LRB"}}}]}]}   
+
+event: delta
+data: {"v": [{"p": "/message/update_time", "o": "replace", "v": 1750512311.584603}, {"p": "/message/status", "o": "replace", "v": "finished_successfully"}, {"p": "/message/metadata/is_complete", "o": "replace", "v": true}, {"p": "/message/metadata/aggregate_result/status", "o": "replace", "v": "success"}, {"p": "/message/metadata/aggregate_result/update_time", "o": "replace", "v": 1750512311.584603}, {"p": "/message/metadata/aggregate_result/end_time", "o": "replace", "v": 1750512311.584603}, {"p": "/message/metadata/aggregate_result/jupyter_messages", "o": "append", "v": [{"msg_type": "status", "parent_header": {"msg_id": "124aa5b7-a474b5c7de06b6cf4fc2e55c_3_1", "version": "5.3"}, "content": {"execution_state": "idle"}}]}]}
+
+event: delta
+data: {"o": "add", "v": {"message": {"id": "b883d61e-6b78-439e-8596-b5b8893adaa0", "author": {"role": "assistant", "name": null, "metadata": {}}, "create_time": 1750512311.661927, "update_time": null, "content": {"content_type": "text", "parts": [""]}, "status": "in_progress", "end_turn": null, "weight": 1.0, "metadata": {"citations": [], "content_references": [], "gizmo_id": "g-HMNcP6w7d", "message_type": "next", "model_slug": "gpt-4o", "default_model_slug": "auto", "parent_id": "268bf785-f6f3-469b-babd-cd2adf21ddd9", "model_switcher_deny": [{"slug": "text-davinci-002-render-sha", "context": "regenerate", "reason": "unsupported_gizmo", "is_available": false, "description": "This GPT is not supported"}]}, "recipient": "all", "channel": null}, "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a", "error": null}, "c": 5}   
+
+event: delta
+data: {"p": "/message/content/parts/0", "o": "append", "v": "D\u01b0"}
+
+event: delta
+data: {"v": "\u1edbi \u0111\u00e2y l\u00e0 bi\u1ec3u \u0111\u1ed3 tr\u1ef1c quan"}    
+
+event: delta
+data: {"v": " h\u00f3a hi\u1ec7u qu\u1ea3"}   
+
+event: delta
+data: {"v": " kinh doanh c\u1ee7a VNM t\u1eeb Q1"}    
+
+event: delta
+data: {"v": "/2024 \u0111\u1ebfn Q1/2025:\n\n- **"}   
+
+event: delta
+data: {"v": "Doanh thu (Revenue)** v\u00e0 **"}       
+
+event: delta
+data: {"v": "L\u1ee3i nhu\u1eadn g\u1ed9p"}   
+
+event: delta
+data: {"v": " (Gross Profit)** cho"}  
+
+event: delta
+data: {"v": " th\u1ea5y xu h\u01b0\u1edbng t\u0103ng trong Q"}
+
+event: delta
+data: {"v": "2/"}     
+
+event: delta
+data: {"v": "2024, sau \u0111\u00f3 gi\u1ea3m d"}     
+
+event: delta
+data: {"v": "\u1ea7n \u0111\u1ebfn Q1/2025.\n"}       
+
+event: delta
+data: {"v": "- **L\u1ee3i"}   
+
+event: delta
+data: {"v": " nhu\u1eadn sau thu\u1ebf c\u1ee7a c\u1ed5"}     
+
+event: delta
+data: {"v": " \u0111\u00f4ng c\u00f4ng ty m\u1eb9 (Net"}      
+
+event: delta
+data: {"v": " Profit - Parent)** c\u0169ng c\u00f3 xu"}       
+
+event: delta
+data: {"v": " h\u01b0\u1edbng t\u01b0\u01a1ng t\u1ef1, gi\u1ea3m m\u1ea1nh"}  
+
+event: delta
+data: {"v": " v\u00e0o Q1/2025.\n- **"}       
+
+event: delta
+data: {"v": "EPS (L\u00e3i c\u01a1"}  
+
+event: delta
+data: {"v": " b\u1ea3n tr\u00ean"}    
+
+event: delta
+data: {"v": " c\u1ed5 phi\u1ebfu)** gi\u1ea3m r\u00f5 r\u1ec7t t\u1eeb"}      
+
+event: delta
+data: {"v": " \u0111\u1ec9nh \u1edf Q2"}      
+
+event: delta
+data: {"v": "/2024 (1,"}      
+
+event: delta
+data: {"v": "138 VN\u0110) xu\u1ed1ng c\u00f2n 674 VN"}       
+
+event: delta
+data: {"v": "\u0110 v\u00e0o Q1/2025.\n\n\u0110i\u1ec1u n\u00e0y c\u00f3"}    
+
+event: delta
+data: {"v": " th\u1ec3 ph\u1ea3n \u00e1nh s\u1ef1 s\u1ee5t"}  
+
+event: delta
+data: {"v": " gi\u1ea3m hi\u1ec7u qu\u1ea3 kinh doanh v\u00e0 \u00e1p l\u1ef1c"}      
+
+event: delta
+data: {"v": " chi ph\u00ed trong th\u1eddi gian g\u1ea7n"}    
+
+event: delta
+data: {"v": " \u0111\u00e2y"} 
+
+event: delta
+data: {"v": "."}      
+
+event: delta
+data: {"v": " N\u1ebfu b\u1ea1n"}     
+
+event: delta
+data: {"v": " mu\u1ed1n"}     
+
+event: delta
+data: {"v": " ph\u00e2n t\u00edch s\u00e2u h\u01a1n t\u1eebng"}       
+
+event: delta
+data: {"v": " y\u1ebfu t\u1ed1 (v\u00ed"}     
+
+event: delta
+data: {"v": " d\u1ee5: t\u1ef7 su\u1ea5t l\u1ee3i nhu\u1eadn, ROE,"}  
+
+event: delta
+data: {"v": " n\u1ee3/v\u1ed1n ch\u1ee7), m\u00ecnh"} 
+
+event: delta
+data: {"p": "", "o": "patch", "v": [{"p": "/message/content/parts/0", "o": "append", "v": " c\u00f3 th\u1ec3 h\u1ed7 tr\u1ee3 th\u00eam."}, {"p": "/message/status", "o": "replace", "v": "finished_successfully"}, {"p": "/message/end_turn", "o": "replace", "v": true}]}   
+
+event: delta
+data: {"p": "/message/metadata", "o": "append", "v": {"is_complete": true, "finish_details": {"type": "stop", "stop_tokens": [200002]}}}      
+
+data: {"type": "message_stream_complete", "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a"}
+
+data: {"type": "title_generation", "title": "Ph\u00e2n t\u00edch k\u1ebft qu\u1ea3 VNM", "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a"}
+
+data: {"type": "conversation_detail_metadata", "banner_info": null, "blocked_features": [], "model_limits": [], "limits_progress": [{"feature_name": "deep_research", "remaining": 5, "reset_after": "2025-07-21T13:25:23.090902+00:00"}], "default_model_slug": "auto", "conversation_id": "6856b2a6-2e6c-8007-9f63-fdbaf579027a"}
+
+data: [DONE]
+
