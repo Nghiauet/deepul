@@ -153,9 +153,27 @@ def load_colored_mnist_text(file_path):
         colored_test_labels,
     )
 
-
 def get_data_dir(hw_number: int):
-    return join('deepul', 'homeworks', f'hw{hw_number}', 'data')
+    # Try different possible locations for the data directory
+    possible_paths = [
+        join('deepul', 'homeworks', f'hw{hw_number}', 'data'),
+        join('homeworks', f'hw{hw_number}', 'data'),
+        join('data'),
+        join('..', 'data'),
+        join('..', 'deepul', 'homeworks', f'hw{hw_number}', 'data'),
+    ]
+    
+    for path in possible_paths:
+        abs_path = os.path.abspath(path)
+        if os.path.exists(abs_path):
+            print("data_dir: ", abs_path)
+            return abs_path
+    
+    # If none of the paths exist, return the original path and let the error occur
+    data_dir = join('deepul', 'homeworks', f'hw{hw_number}', 'data')
+    data_dir = os.path.abspath(data_dir)
+    print("data_dir: ", data_dir, "(not found)")
+    return data_dir
 
 
 def quantize(images: np.ndarray, n_bits: int = 8):
