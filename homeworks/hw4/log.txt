@@ -1,0 +1,388 @@
+Labels: [6, 9, 9, 4, 1, 1, 2, 7, 8, 3, 4, 7, 7, 2, 9, 9, 9, 3, 2, 6, 4, 3, 6, 6, 2, 6, 3, 5, 4, 0, 0, 9, 1, 3, 4, 0, 3, 7, 3, 3, 5, 2, 2, 7, 1, 1, 1, 2, 2, 0, 9, 5, 7, 9, 2, 2, 5, 2, 4, 3, 1, 1, 8, 2, 1, 1, 4, 9, 7, 8, 5, 9, 6, 7, 3, 1, 9, 0, 3, 1, 3, 5, 4, 5, 7, 7, 4, 7, 9, 4, 2, 3, 8, 0, 1, 6, 1, 1, 4, 1]
+Scale factor: 1.2938
+Labels: [6, 9, 9, 4, 1, 1, 2, 7, 8, 3, 4, 7, 7, 2, 9, 9, 9, 3, 2, 6, 4, 3, 6, 6, 2, 6, 3, 5, 4, 0, 0, 9, 1, 3, 4, 0, 3, 7, 3, 3, 5, 2, 2, 7, 1, 1, 1, 2, 2, 0, 9, 5, 7, 9, 2, 2, 5, 2, 4, 3, 1, 1, 8, 2, 1, 1, 4, 9, 7, 8, 5, 9, 6, 7, 3, 1, 9, 0, 3, 1, 3, 5, 4, 5, 7, 7, 4, 7, 9, 4, 2, 3, 8, 0, 1, 6, 1, 1, 4, 1]
+Scale factor: 1.2713
+Initial test loss: 0.9996
+Epoch 1/60, Train Loss: 0.3039, Test Loss: 0.2285
+Checkpoint saved at epoch 1
+Epoch 2/60, Train Loss: 0.2251, Test Loss: 0.2185
+Checkpoint saved at epoch 2
+Epoch 3/60, Train Loss: 0.2197, Test Loss: 0.2262
+Checkpoint saved at epoch 3
+Epoch 4/60, Train Loss: 0.2171, Test Loss: 0.2138
+Checkpoint saved at epoch 4
+Epoch 5/60, Train Loss: 0.2157, Test Loss: 0.2141
+Checkpoint saved at epoch 5
+Epoch 6/60, Train Loss: 0.2115, Test Loss: 0.2094
+Checkpoint saved at epoch 6
+Epoch 7/60, Train Loss: 0.2128, Test Loss: 0.2186
+Checkpoint saved at epoch 7
+Epoch 8/60, Train Loss: 0.2102, Test Loss: 0.2060
+Checkpoint saved at epoch 8
+Epoch 9/60, Train Loss: 0.2115, Test Loss: 0.2116
+Checkpoint saved at epoch 9
+Epoch 10/60, Train Loss: 0.2099, Test Loss: 0.2050
+Checkpoint saved at epoch 10
+Epoch 11/60, Train Loss: 0.2087, Test Loss: 0.2083
+Checkpoint saved at epoch 11
+Epoch 12/60, Train Loss: 0.2071, Test Loss: 0.2071
+Checkpoint saved at epoch 12
+Epoch 13/60, Train Loss: 0.2078, Test Loss: 0.2045
+Checkpoint saved at epoch 13
+Epoch 14/60, Train Loss: 0.2088, Test Loss: 0.2113
+Checkpoint saved at epoch 14
+Epoch 15/60, Train Loss: 0.2043, Test Loss: 0.2054
+Checkpoint saved at epoch 15
+Epoch 16/60, Train Loss: 0.2065, Test Loss: 0.2100
+Checkpoint saved at epoch 16
+Epoch 17/60, Train Loss: 0.2072, Test Loss: 0.2087
+Checkpoint saved at epoch 17
+Epoch 18/60, Train Loss: 0.2066, Test Loss: 0.2040
+Checkpoint saved at epoch 18
+Epoch 19/60, Train Loss: 0.2069, Test Loss: 0.2063
+Checkpoint saved at epoch 19
+Epoch 20/60, Train Loss: 0.2060, Test Loss: 0.2047
+Checkpoint saved at epoch 20
+Epoch 21/60, Train Loss: 0.2030, Test Loss: 0.2040
+Checkpoint saved at epoch 21
+Epoch 22/60, Train Loss: 0.2022, Test Loss: 0.2093
+Checkpoint saved at epoch 22
+Epoch 23/60, Train Loss: 0.2054, Test Loss: 0.2029
+Checkpoint saved at epoch 23
+Epoch 24/60, Train Loss: 0.2052, Test Loss: 0.2040
+Checkpoint saved at epoch 24
+Epoch 25/60, Train Loss: 0.2026, Test Loss: 0.2058
+Checkpoint saved at epoch 25
+Epoch 26/60, Train Loss: 0.2045, Test Loss: 0.2039
+Checkpoint saved at epoch 26
+Epoch 27/60, Train Loss: 0.2038, Test Loss: 0.2019
+Checkpoint saved at epoch 27
+Epoch 28/60, Train Loss: 0.2025, Test Loss: 0.2068
+Checkpoint saved at epoch 28
+Epoch 29/60, Train Loss: 0.2015, Test Loss: 0.2001
+Checkpoint saved at epoch 29
+Epoch 30/60, Train Loss: 0.2026, Test Loss: 0.2024
+Checkpoint saved at epoch 30
+Epoch 31/60, Train Loss: 0.2005, Test Loss: 0.2024
+Checkpoint saved at epoch 31
+Epoch 32/60, Train Loss: 0.2022, Test Loss: 0.2008
+Checkpoint saved at epoch 32
+Epoch 33/60, Train Loss: 0.2003, Test Loss: 0.2073
+Checkpoint saved at epoch 33
+Epoch 34/60, Train Loss: 0.2011, Test Loss: 0.2028
+Checkpoint saved at epoch 34
+Epoch 35/60, Train Loss: 0.2049, Test Loss: 0.2074
+Checkpoint saved at epoch 35
+Epoch 36/60, Train Loss: 0.1997, Test Loss: 0.2029
+Checkpoint saved at epoch 36
+Epoch 37/60, Train Loss: 0.1996, Test Loss: 0.2082
+Checkpoint saved at epoch 37
+Epoch 38/60, Train Loss: 0.2008, Test Loss: 0.2025
+Checkpoint saved at epoch 38
+Epoch 39/60, Train Loss: 0.1992, Test Loss: 0.1971
+Checkpoint saved at epoch 39
+Epoch 40/60, Train Loss: 0.2009, Test Loss: 0.2056
+Checkpoint saved at epoch 40
+Epoch 41/60, Train Loss: 0.1995, Test Loss: 0.2029
+Checkpoint saved at epoch 41
+Epoch 42/60, Train Loss: 0.2005, Test Loss: 0.2029
+Checkpoint saved at epoch 42
+Epoch 43/60, Train Loss: 0.2009, Test Loss: 0.2042
+Checkpoint saved at epoch 43
+Epoch 44/60, Train Loss: 0.2006, Test Loss: 0.1994
+Checkpoint saved at epoch 44
+Epoch 45/60, Train Loss: 0.1964, Test Loss: 0.1986
+Checkpoint saved at epoch 45
+Epoch 46/60, Train Loss: 0.1984, Test Loss: 0.2075
+Checkpoint saved at epoch 46
+Epoch 47/60, Train Loss: 0.1958, Test Loss: 0.2059
+Checkpoint saved at epoch 47
+Epoch 48/60, Train Loss: 0.1976, Test Loss: 0.2001
+Checkpoint saved at epoch 48
+Epoch 49/60, Train Loss: 0.1958, Test Loss: 0.2004
+Checkpoint saved at epoch 49
+Epoch 50/60, Train Loss: 0.1975, Test Loss: 0.2007
+Checkpoint saved at epoch 50
+Epoch 51/60, Train Loss: 0.1965, Test Loss: 0.1990
+Checkpoint saved at epoch 51
+Epoch 52/60, Train Loss: 0.1981, Test Loss: 0.1989
+Checkpoint saved at epoch 52
+Epoch 53/60, Train Loss: 0.1975, Test Loss: 0.1988
+Checkpoint saved at epoch 53
+Epoch 54/60, Train Loss: 0.1972, Test Loss: 0.1934
+Checkpoint saved at epoch 54
+Epoch 55/60, Train Loss: 0.1973, Test Loss: 0.2044
+Checkpoint saved at epoch 55
+Epoch 56/60, Train Loss: 0.1978, Test Loss: 0.1984
+Checkpoint saved at epoch 56
+Epoch 57/60, Train Loss: 0.1987, Test Loss: 0.1969
+Checkpoint saved at epoch 57
+Epoch 58/60, Train Loss: 0.1954, Test Loss: 0.1971
+Checkpoint saved at epoch 58
+Epoch 59/60, Train Loss: 0.1968, Test Loss: 0.2013
+Checkpoint saved at epoch 59
+Epoch 60/60, Train Loss: 0.1991, Test Loss: 0.2038
+Checkpoint saved at epoch 60
+Final checkpoint saved
+Training completed. Final test loss: 0.2038
+Generated samples shape: (10, 10, 32, 32, 3)
+Final Test Loss: 0.2038
+Labels: [6, 9, 9, 4, 1, 1, 2, 7, 8, 3, 4, 7, 7, 2, 9, 9, 9, 3, 2, 6, 4, 3, 6, 6, 2, 6, 3, 5, 4, 0, 0, 9, 1, 3, 4, 0, 3, 7, 3, 3, 5, 2, 2, 7, 1, 1, 1, 2, 2, 0, 9, 5, 7, 9, 2, 2, 5, 2, 4, 3, 1, 1, 8, 2, 1, 1, 4, 9, 7, 8, 5, 9, 6, 7, 3, 1, 9, 0, 3, 1, 3, 5, 4, 5, 7, 7, 4, 7, 9, 4, 2, 3, 8, 0, 1, 6, 1, 1, 4, 1]
+Scale factor: 1.2750
+Initial test loss: 1.0010
+Epoch 1/60, Train Loss: 0.3054, Test Loss: 0.2312
+Checkpoint saved at epoch 1
+Epoch 2/60, Train Loss: 0.2257, Test Loss: 0.2199
+Checkpoint saved at epoch 2
+Epoch 3/60, Train Loss: 0.2199, Test Loss: 0.2205
+Checkpoint saved at epoch 3
+Epoch 4/60, Train Loss: 0.2195, Test Loss: 0.2159
+Checkpoint saved at epoch 4
+Epoch 5/60, Train Loss: 0.2183, Test Loss: 0.2139
+Checkpoint saved at epoch 5
+Epoch 6/60, Train Loss: 0.2123, Test Loss: 0.2107
+Checkpoint saved at epoch 6
+Epoch 7/60, Train Loss: 0.2133, Test Loss: 0.2058
+Checkpoint saved at epoch 7
+Epoch 8/60, Train Loss: 0.2093, Test Loss: 0.2098
+Checkpoint saved at epoch 8
+Epoch 9/60, Train Loss: 0.2096, Test Loss: 0.2134
+Checkpoint saved at epoch 9
+Epoch 10/60, Train Loss: 0.2093, Test Loss: 0.2146
+Checkpoint saved at epoch 10
+Epoch 11/60, Train Loss: 0.2091, Test Loss: 0.2064
+Checkpoint saved at epoch 11
+Epoch 12/60, Train Loss: 0.2092, Test Loss: 0.2068
+Checkpoint saved at epoch 12
+Epoch 13/60, Train Loss: 0.2081, Test Loss: 0.2075
+Checkpoint saved at epoch 13
+Epoch 14/60, Train Loss: 0.2094, Test Loss: 0.2123
+Checkpoint saved at epoch 14
+Epoch 15/60, Train Loss: 0.2059, Test Loss: 0.1994
+Checkpoint saved at epoch 15
+Epoch 16/60, Train Loss: 0.2032, Test Loss: 0.2104
+Checkpoint saved at epoch 16
+Epoch 17/60, Train Loss: 0.2068, Test Loss: 0.2026
+Checkpoint saved at epoch 17
+Epoch 18/60, Train Loss: 0.2059, Test Loss: 0.2099
+Checkpoint saved at epoch 18
+Epoch 19/60, Train Loss: 0.2065, Test Loss: 0.2098
+Checkpoint saved at epoch 19
+Epoch 20/60, Train Loss: 0.2056, Test Loss: 0.2092
+Checkpoint saved at epoch 20
+Epoch 21/60, Train Loss: 0.2039, Test Loss: 0.2032
+Checkpoint saved at epoch 21
+Epoch 22/60, Train Loss: 0.2043, Test Loss: 0.2022
+Checkpoint saved at epoch 22
+Epoch 23/60, Train Loss: 0.2041, Test Loss: 0.2037
+Checkpoint saved at epoch 23
+Epoch 24/60, Train Loss: 0.2045, Test Loss: 0.2037
+Checkpoint saved at epoch 24
+Epoch 25/60, Train Loss: 0.2061, Test Loss: 0.2015
+Checkpoint saved at epoch 25
+Epoch 26/60, Train Loss: 0.2007, Test Loss: 0.2075
+Checkpoint saved at epoch 26
+Epoch 27/60, Train Loss: 0.2026, Test Loss: 0.2027
+Checkpoint saved at epoch 27
+Epoch 28/60, Train Loss: 0.2043, Test Loss: 0.2024
+Checkpoint saved at epoch 28
+Epoch 29/60, Train Loss: 0.2023, Test Loss: 0.2034
+Checkpoint saved at epoch 29
+Epoch 30/60, Train Loss: 0.2008, Test Loss: 0.2058
+Checkpoint saved at epoch 30
+Epoch 31/60, Train Loss: 0.2000, Test Loss: 0.2007
+Checkpoint saved at epoch 31
+Epoch 32/60, Train Loss: 0.2029, Test Loss: 0.2011
+Checkpoint saved at epoch 32
+Epoch 33/60, Train Loss: 0.2011, Test Loss: 0.2050
+Checkpoint saved at epoch 33
+Epoch 34/60, Train Loss: 0.2003, Test Loss: 0.2019
+Checkpoint saved at epoch 34
+Epoch 35/60, Train Loss: 0.2014, Test Loss: 0.2044
+Checkpoint saved at epoch 35
+Epoch 36/60, Train Loss: 0.2008, Test Loss: 0.2002
+Checkpoint saved at epoch 36
+Epoch 37/60, Train Loss: 0.1995, Test Loss: 0.2034
+Checkpoint saved at epoch 37
+Epoch 38/60, Train Loss: 0.2003, Test Loss: 0.2005
+Checkpoint saved at epoch 38
+Epoch 39/60, Train Loss: 0.1993, Test Loss: 0.1996
+Checkpoint saved at epoch 39
+Epoch 40/60, Train Loss: 0.1985, Test Loss: 0.1998
+Checkpoint saved at epoch 40
+Epoch 41/60, Train Loss: 0.1993, Test Loss: 0.2055
+Checkpoint saved at epoch 41
+Epoch 42/60, Train Loss: 0.1985, Test Loss: 0.1934
+Checkpoint saved at epoch 42
+Epoch 43/60, Train Loss: 0.1991, Test Loss: 0.1988
+Checkpoint saved at epoch 43
+Epoch 44/60, Train Loss: 0.1978, Test Loss: 0.2002
+Checkpoint saved at epoch 44
+Epoch 45/60, Train Loss: 0.1989, Test Loss: 0.2014
+Checkpoint saved at epoch 45
+Epoch 46/60, Train Loss: 0.1999, Test Loss: 0.2007
+Checkpoint saved at epoch 46
+Epoch 47/60, Train Loss: 0.2001, Test Loss: 0.1981
+Checkpoint saved at epoch 47
+Epoch 48/60, Train Loss: 0.1981, Test Loss: 0.1994
+Checkpoint saved at epoch 48
+Epoch 49/60, Train Loss: 0.1972, Test Loss: 0.2033
+Checkpoint saved at epoch 49
+Epoch 50/60, Train Loss: 0.1985, Test Loss: 0.2001
+Checkpoint saved at epoch 50
+Epoch 51/60, Train Loss: 0.1956, Test Loss: 0.1934
+Checkpoint saved at epoch 51
+Epoch 52/60, Train Loss: 0.1977, Test Loss: 0.2009
+Checkpoint saved at epoch 52
+Epoch 53/60, Train Loss: 0.1948, Test Loss: 0.1989
+Checkpoint saved at epoch 53
+Epoch 54/60, Train Loss: 0.1965, Test Loss: 0.2019
+Checkpoint saved at epoch 54
+Epoch 55/60, Train Loss: 0.1956, Test Loss: 0.2007
+Checkpoint saved at epoch 55
+Epoch 56/60, Train Loss: 0.1962, Test Loss: 0.1974
+Checkpoint saved at epoch 56
+Epoch 57/60, Train Loss: 0.1964, Test Loss: 0.2024
+Checkpoint saved at epoch 57
+Epoch 58/60, Train Loss: 0.1958, Test Loss: 0.2002
+Checkpoint saved at epoch 58
+Epoch 59/60, Train Loss: 0.1970, Test Loss: 0.1986
+Checkpoint saved at epoch 59
+Epoch 60/60, Train Loss: 0.1982, Test Loss: 0.2059
+Checkpoint saved at epoch 60
+Final checkpoint saved
+Training completed. Final test loss: 0.2059
+Generated samples shape: (10, 10, 32, 32, 3)
+Final Test Loss: 0.2059
+Labels: [6, 9, 9, 4, 1, 1, 2, 7, 8, 3, 4, 7, 7, 2, 9, 9, 9, 3, 2, 6, 4, 3, 6, 6, 2, 6, 3, 5, 4, 0, 0, 9, 1, 3, 4, 0, 3, 7, 3, 3, 5, 2, 2, 7, 1, 1, 1, 2, 2, 0, 9, 5, 7, 9, 2, 2, 5, 2, 4, 3, 1, 1, 8, 2, 1, 1, 4, 9, 7, 8, 5, 9, 6, 7, 3, 1, 9, 0, 3, 1, 3, 5, 4, 5, 7, 7, 4, 7, 9, 4, 2, 3, 8, 0, 1, 6, 1, 1, 4, 1]
+Scale factor: 1.2831
+Loading checkpoint from q3b_checkpoint.pth
+Resuming training from epoch 5, global step 784
+Epoch 5/60, Train Loss: 0.2141, Test Loss: 0.2155
+Checkpoint saved at epoch 5
+Epoch 6/60, Train Loss: 0.2137, Test Loss: 0.2120
+Checkpoint saved at epoch 6
+Epoch 7/60, Train Loss: 0.2124, Test Loss: 0.2035
+Checkpoint saved at epoch 7
+Epoch 8/60, Train Loss: 0.2097, Test Loss: 0.2098
+Checkpoint saved at epoch 8
+Epoch 9/60, Train Loss: 0.2122, Test Loss: 0.2091
+Checkpoint saved at epoch 9
+Epoch 10/60, Train Loss: 0.2092, Test Loss: 0.2052
+Checkpoint saved at epoch 10
+Epoch 11/60, Train Loss: 0.2094, Test Loss: 0.2124
+Checkpoint saved at epoch 11
+Epoch 12/60, Train Loss: 0.2103, Test Loss: 0.2025
+Checkpoint saved at epoch 12
+Epoch 13/60, Train Loss: 0.2090, Test Loss: 0.2108
+Checkpoint saved at epoch 13
+Epoch 14/60, Train Loss: 0.2070, Test Loss: 0.2105
+Checkpoint saved at epoch 14
+Epoch 15/60, Train Loss: 0.2072, Test Loss: 0.2052
+Checkpoint saved at epoch 15
+Epoch 16/60, Train Loss: 0.2054, Test Loss: 0.2076
+Checkpoint saved at epoch 16
+Epoch 17/60, Train Loss: 0.2058, Test Loss: 0.2068
+Checkpoint saved at epoch 17
+Epoch 18/60, Train Loss: 0.2070, Test Loss: 0.2020
+Checkpoint saved at epoch 18
+Epoch 19/60, Train Loss: 0.2042, Test Loss: 0.2050
+Checkpoint saved at epoch 19
+Epoch 20/60, Train Loss: 0.2068, Test Loss: 0.2017
+Checkpoint saved at epoch 20
+Epoch 21/60, Train Loss: 0.2044, Test Loss: 0.2054
+Checkpoint saved at epoch 21
+Epoch 22/60, Train Loss: 0.2044, Test Loss: 0.2035
+Checkpoint saved at epoch 22
+Epoch 23/60, Train Loss: 0.2059, Test Loss: 0.2069
+Checkpoint saved at epoch 23
+Epoch 24/60, Train Loss: 0.2053, Test Loss: 0.2089
+Checkpoint saved at epoch 24
+Epoch 25/60, Train Loss: 0.2036, Test Loss: 0.2067
+Checkpoint saved at epoch 25
+Epoch 26/60, Train Loss: 0.2047, Test Loss: 0.2027
+Checkpoint saved at epoch 26
+Epoch 27/60, Train Loss: 0.2046, Test Loss: 0.1966
+Checkpoint saved at epoch 27
+Epoch 28/60, Train Loss: 0.2006, Test Loss: 0.1992
+Checkpoint saved at epoch 28
+Epoch 29/60, Train Loss: 0.2023, Test Loss: 0.2041
+Checkpoint saved at epoch 29
+Epoch 30/60, Train Loss: 0.2025, Test Loss: 0.1977
+Checkpoint saved at epoch 30
+Epoch 31/60, Train Loss: 0.2025, Test Loss: 0.2067
+Checkpoint saved at epoch 31
+Epoch 32/60, Train Loss: 0.2030, Test Loss: 0.2031
+Checkpoint saved at epoch 32
+Epoch 33/60, Train Loss: 0.2012, Test Loss: 0.1959
+Checkpoint saved at epoch 33
+Epoch 34/60, Train Loss: 0.1999, Test Loss: 0.2014
+Checkpoint saved at epoch 34
+Epoch 35/60, Train Loss: 0.2011, Test Loss: 0.2006
+Checkpoint saved at epoch 35
+Epoch 36/60, Train Loss: 0.1991, Test Loss: 0.2029
+Checkpoint saved at epoch 36
+Epoch 37/60, Train Loss: 0.2001, Test Loss: 0.1990
+Checkpoint saved at epoch 37
+Epoch 38/60, Train Loss: 0.1988, Test Loss: 0.1967
+Checkpoint saved at epoch 38
+Epoch 39/60, Train Loss: 0.2004, Test Loss: 0.1996
+Checkpoint saved at epoch 39
+Epoch 40/60, Train Loss: 0.2006, Test Loss: 0.1986
+Checkpoint saved at epoch 40
+Epoch 41/60, Train Loss: 0.1999, Test Loss: 0.2048
+Checkpoint saved at epoch 41
+Epoch 42/60, Train Loss: 0.2000, Test Loss: 0.2036
+Checkpoint saved at epoch 42
+Epoch 43/60, Train Loss: 0.1981, Test Loss: 0.1993
+Checkpoint saved at epoch 43
+Epoch 44/60, Train Loss: 0.1982, Test Loss: 0.2020
+Checkpoint saved at epoch 44
+Epoch 45/60, Train Loss: 0.1971, Test Loss: 0.1966
+Checkpoint saved at epoch 45
+Epoch 46/60, Train Loss: 0.1991, Test Loss: 0.2018
+Checkpoint saved at epoch 46
+Epoch 47/60, Train Loss: 0.1994, Test Loss: 0.2015
+Checkpoint saved at epoch 47
+Epoch 48/60, Train Loss: 0.1989, Test Loss: 0.2063
+Checkpoint saved at epoch 48
+Epoch 49/60, Train Loss: 0.1970, Test Loss: 0.2014
+Checkpoint saved at epoch 49
+Epoch 50/60, Train Loss: 0.1982, Test Loss: 0.2023
+Checkpoint saved at epoch 50
+Epoch 51/60, Train Loss: 0.1984, Test Loss: 0.1959
+Checkpoint saved at epoch 51
+Epoch 52/60, Train Loss: 0.1962, Test Loss: 0.1996
+Checkpoint saved at epoch 52
+Epoch 53/60, Train Loss: 0.1981, Test Loss: 0.2000
+Checkpoint saved at epoch 53
+Epoch 54/60, Train Loss: 0.1990, Test Loss: 0.1982
+Checkpoint saved at epoch 54
+Epoch 55/60, Train Loss: 0.1964, Test Loss: 0.1988
+Checkpoint saved at epoch 55
+Epoch 56/60, Train Loss: 0.1957, Test Loss: 0.1944
+Checkpoint saved at epoch 56
+Epoch 57/60, Train Loss: 0.1979, Test Loss: 0.1976
+Checkpoint saved at epoch 57
+Epoch 58/60, Train Loss: 0.1964, Test Loss: 0.1972
+Checkpoint saved at epoch 58
+Epoch 59/60, Train Loss: 0.1976, Test Loss: 0.1947
+Checkpoint saved at epoch 59
+Epoch 60/60, Train Loss: 0.1973, Test Loss: 0.1982
+Checkpoint saved at epoch 60
+Final checkpoint saved
+Training completed. Final test loss: 0.1982
+Generated samples shape: (10, 10, 32, 32, 3)
+Used 1000 sampling timesteps as specified in instructions
+Final Test Loss: 0.1982
+Loading DiT model from q3b_checkpoint.pth
+Loaded DiT model from epoch 60
+Generating samples with CFG w = 1.0
+Completed CFG w = 1.0, shape: (10, 10, 32, 32, 3)
+Generating samples with CFG w = 3.0
+Completed CFG w = 3.0, shape: (10, 10, 32, 32, 3)
+Generating samples with CFG w = 5.0
+Completed CFG w = 5.0, shape: (10, 10, 32, 32, 3)
+Generating samples with CFG w = 7.5
+Completed CFG w = 7.5, shape: (10, 10, 32, 32, 3)
+Final samples shape: (4, 10, 10, 32, 32, 3)
